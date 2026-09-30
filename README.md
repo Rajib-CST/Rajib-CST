@@ -5,7 +5,7 @@
   <br />
   <a href="https://github.com/Rajib-CST"><img src="https://img.shields.io/badge/GitHub-071b2c?style=for-the-badge&amp;logo=github&amp;logoColor=f4e8ca" alt="Rajib's GitHub profile" /></a>
   <a href="https://www.linkedin.com/in/rajib-gorai-09070432a/"><img src="https://img.shields.io/badge/LinkedIn-0b5260?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Rajib's LinkedIn profile" /></a>
-  <a href="https://leetcode.com/u/RajibGorai-19/"><img src="https://img.shields.io/badge/LeetCode-c49a4a?style=for-the-badge&amp;logo=leetcode&amp;logoColor=071b2c" alt="Rajib's LeetCode profile" /></a>
+  <a href="https://leetcode.com/u//"><img src="https://img.shields.io/badge/LeetCode-c49a4a?style=for-the-badge&amp;logo=leetcode&amp;logoColor=071b2c" alt="Rajib's LeetCode profile" /></a>
   <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-8a3939?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Rajib" /></a>
 </div>
 
